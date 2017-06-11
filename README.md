@@ -1,4 +1,6 @@
-# Puxxle - Puzzle Game
+# **Puxxle** <sub> *Puzzle Game </sub>
+
+
 
 You can use the [editor on GitHub](https://github.com/RyanAWalters/Puxxle/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
