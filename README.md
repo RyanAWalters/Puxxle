@@ -2,11 +2,11 @@
 Puxxle - Matching Puzzle Game
 </h1>
 
-Puxxle is a unique puzzle game in which you tap on squares of alternating colors. Make all colors the same to win. The fun lies in discovering the algorithms to solve the puzzles as well as challenging records.
+Puxxle is a unique puzzle game in which you tap on squares of alternating colors. Make all colors the same to win. The fun lies in discovering the algorithms to solve the puzzles as well as challenging records. Random puzzle genration can be controlled by a seed. Enter a seed to play the same puzzle as someone else and see who's better!
 
 ### [*Play it right now in your desktop web browser!*](https://ryanawalters.github.io/Puxxle/)
 
-This game was made completely by myself in the Summer of 2016. It is made in Unreal Engine and is published to the Google Play Store. The game implements saving, digital currency, and in-app purchases for Android.
+This game was made completely by myself in the Summer of 2016. It is made in Unreal Engine and is published to the Google Play Store. The game implements saving, digital currency, and in-app purchases for Android, as well as record tracking and random puzzle generation controllable by seeds.
 
 You can read more about it and download it on your Android device here:
 ### [Puxxle - Matching Puzzle Game](https://play.google.com/store/apps/details?id=com.illiquid.puzzle)
