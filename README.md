@@ -1,4 +1,4 @@
-# **Puxxle** &nbsp;&nbsp;&nbsp;<sub> Puzzle Game </sub>
+# **Puxxle** - Matching Puzzle Game
 
 Puxxle is a unique puzzle game in which you tap on squares of alternating colors. Make all colors the same to win. The fun lies in discovering the algorithms to solve the puzzles as well as challenging records.
 
@@ -8,6 +8,13 @@ This game was made completely by myself in the Summer of 2016. It is made in Unr
 
 You can read more about it and download it on your Android device here:
 ### [Puxxle - Matching Puzzle Game](https://play.google.com/store/apps/details?id=com.illiquid.puzzle)
+
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=9pTmUcxPwwQ
+" target="_blank"><img src="http://img.youtube.com/vi/9pTmUcxPwwQ/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="480" height="360" border="10" /></a>
+
+
 **Excerpt from the Google Play Store page:**
 <blockquote>
   <blockquote>
@@ -23,13 +30,13 @@ The real draw of this game is the competitive aspect. Much like twisty puzzle cu
 
 So get out there with your friends and discover algorithms, learn to solve the puzzles, and compete to see who the best Puxxler is!
 
---------------
+
 
 Puxxle uses the Unreal® Engine. Unreal® is a trademark or registered trademark of Epic Games, Inc. in the United States of America and elsewhere
 
 Unreal® Engine, Copyright 1998 – 2016, Epic Games, Inc. All rights reserved.
 
---------------
+
 
 All permissions required are required by Unreal Engine for the game to function.
 
