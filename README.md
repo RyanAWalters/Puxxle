@@ -1,4 +1,6 @@
-# **Puxxle** - Matching Puzzle Game
+<h1><img src="img/icon.webp" width="50">
+Puxxle - Matching Puzzle Game
+</h1>
 
 Puxxle is a unique puzzle game in which you tap on squares of alternating colors. Make all colors the same to win. The fun lies in discovering the algorithms to solve the puzzles as well as challenging records.
 
@@ -9,11 +11,21 @@ This game was made completely by myself in the Summer of 2016. It is made in Unr
 You can read more about it and download it on your Android device here:
 ### [Puxxle - Matching Puzzle Game](https://play.google.com/store/apps/details?id=com.illiquid.puzzle)
 
+---
 
+<p align="center">
+<b>Watch on Youtube:</b>  
+
+<p align="center">
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=9pTmUcxPwwQ
 " target="_blank"><img src="http://img.youtube.com/vi/9pTmUcxPwwQ/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="480" height="360" border="10" /></a>
+alt="Watch on Youtube" width="240" height="180" border="0" /></a>
+</p>
+</p>
 
+<p align="center">
+  <img src="img/1.png" width="400"> <img src="img/2.png" width="400"> <img src="img/3.png" width="400"> <img src="img/4.png" width="400">
+</p>
 
 **Excerpt from the Google Play Store page:**
 <blockquote>
