@@ -9,7 +9,7 @@ Puxxle is a unique puzzle game in which you tap on squares of alternating colors
 This game was made completely by myself in the Summer of 2016. It is made in Unreal Engine and is published to the Google Play Store. The game implements saving, digital currency, and in-app purchases for Android, as well as record tracking and random puzzle generation controllable by seeds.
 
 You can read more about it and download it on your Android device here:
-### [Puxxle - Matching Puzzle Game](https://play.google.com/store/apps/details?id=com.illiquid.puzzle)
+### [Download: Puxxle - Matching Puzzle Game](https://play.google.com/store/apps/details?id=com.illiquid.puzzle)
 
 ---
 
